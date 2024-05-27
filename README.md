@@ -1,0 +1,2 @@
+# .github
+Ideia da organização
